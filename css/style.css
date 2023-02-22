@@ -814,77 +814,7 @@ color: #fff;
     }
 }
 
-  @media (max-width: 423px){
-    span#under {
-      display:block;
-      margin: 0 auto;
-      width: 419px;
-      height: 37px;
-      margin-top: 166px;
-      margin-bottom: 10px;
-      font-family: 'Poppins';
-      font-style: normal;
-      font-weight: 700;
-      font-size: 24px;
-      line-height: 65%;
-      text-align: center;
-      text-transform: uppercase;
-      
-      color: #162C4E;
-      opacity: 0.39;
-      padding-bottom: 8px;
-      
-  }
-  span#under-time {
-    display: block;
-    width: 286px;
-    height: 48px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 150%;
-    margin-left: 0px;
-    text-align: center;
-    word-wrap: break-word;
-  }
-}
- 
-@media (max-width: 427px){
-  .timer__items {
-    font-size: 24px;
-  }
-    .timer__items img {
-      max-width: 90%;
-  } 
-  .btn-style {
-    width: 130px;}
-    .logo-company img{
-      width: 128px;
-      height: 40px;
-    }
-
-    #form {
-      width: 340px;
-    }
-
-    span#under {
-      width: 100%;
-      height: auto;
-      line-height: 1;}
-    .wrapper{
-      width: 100%;
-    }
-    .information-header{
-      width: 100%;
-    }
-
-
-.timer__item {
-min-width: auto;}
-
-  }
-  
+   
 
    @media (max-width: 514px){
   
