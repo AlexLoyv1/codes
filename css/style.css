@@ -875,6 +875,22 @@ width: 200px;
         #form {
           width: 340px;
         }
+
+        span#under {width: 100%}
+        .wrapper{
+          width: 100%;
+        }
+        .information-header{
+          width: 100%;
+        }
+   
+      Span#under{
+  height: auto;
+  line-height: 1;
+} 
+.timer__item {
+  min-width: auto;}
+
       }
       
 
