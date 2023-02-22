@@ -850,7 +850,24 @@ span#under-time{
       }
       
 @media (max-width: 351px){
-  
+#form #email {
+  width: 200px;
+  font-size: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  }
+#form {
+  width: 200px;
+  height: 40px;}
+
+#form .inputBox .indicator {
+  right: 20px;
+  top: 2px;
+  width: 30px;
+  height: 30px;
+    }
+.strelka_a {
+  padding-top: 4px;}
 .btn-style {
   width: 100px;}
     
